@@ -44,14 +44,14 @@ The main goal of this project was to build a strong **digital presence**, promot
 - Integrated appointment booking system into Shopify  
 - Created product promotion sections for 2 skincare products  
 - Developed custom Shopify Liquid sections for better UI flexibility  
-- Used dynamic sections beyond default Minimo theme limitations  
+- Used dynamic sections beyond default Minimog theme limitations  
 - Ensured fully responsive design for all devices  
 
 ---
 
 ## 👨‍💻 My Role
 
-**Shopify Developer (Freelance)**
+**Shopify Developer**
 
 Responsibilities:
 - Shopify theme customization  
@@ -70,7 +70,7 @@ Responsibilities:
 - HTML5  
 - CSS3  
 - JavaScript  
-- Minimo Theme (customized)  
+- Minimog Theme (customized)  
 
 ---
 
