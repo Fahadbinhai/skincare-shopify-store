@@ -1,2 +1,2 @@
-# skincare-shopify-store
-Shopify skincare eCommerce store case study with theme customization, responsive UI design, and Shopify Liquid development.
+<h2>1. 📌 Project Title</h2>
+- Skincare Shopify E-commerce Store
