@@ -74,13 +74,6 @@ Responsibilities:
 
 ---
 
-## 📸 Screenshots
-
-### Homepage
-![Homepage](./screenshots/homepage.png)
-
----
-
 ## ✨ Key Features
 
 - 🧖‍♀️ Skincare & facial service listing  
@@ -97,3 +90,10 @@ Responsibilities:
 The final result is a modern and professional Shopify website that helps the client establish a strong online presence, promote their skincare services and products, and allow customers to easily book appointments online.
 
 This significantly improved the client’s digital visibility and customer accessibility.
+
+---
+
+## 📸 Screenshots
+
+### Homepage
+![Homepage](https://github.com/Fahadbinhai/skincare-shopify-store/blob/b6f9371b2c9bd1bf11ec862811951e92a88fef0d/skincare%20.png)
