@@ -74,6 +74,13 @@ Responsibilities:
 
 ---
 
+## 📸 Screenshots
+
+### Homepage
+![Homepage](./screenshots/homepage.png)
+
+---
+
 ## ✨ Key Features
 
 - 🧖‍♀️ Skincare & facial service listing  
