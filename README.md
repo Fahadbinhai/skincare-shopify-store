@@ -93,6 +93,14 @@ This significantly improved the client’s digital visibility and customer acces
 
 ---
 
+## 🔗 Live Store
+
+[Visit Live Store](https://juliaherr.myshopify.com/)
+
+Password: 12345
+
+---
+
 ## 📸 Screenshots
 
 ### Homepage
